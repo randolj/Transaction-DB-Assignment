@@ -11,8 +11,8 @@
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/randolj/Transaction-DB-Assignment.git
+   cd Transaction-DB-Assignment
 
 ### To run the code 
 1. To select which commands will be run, simply edit the main.py main() function with all the commands you wish to run (It comes set with example functions that display error messages and showing all functions work).
